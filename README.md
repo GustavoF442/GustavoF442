@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java, Javascript;<br><br>👨‍💻 All of my projects are available at https://github.com/GustavoF442<br><br>📫 How to reach me gustavohfraga1@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/gustavo-henrique-fraga-680696228/
+🌱 I’m currently learning Java, Javascript, MySql;<br><br>👨‍💻 All of my projects are available at https://github.com/GustavoF442<br><br>📫 How to reach me gustavohfraga1@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/gustavo-henrique-fraga-680696228/
 
 
 # 💻 Tech Stack:
