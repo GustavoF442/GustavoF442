@@ -40,6 +40,3 @@
 
 <br><br>
 
-<a href="https://gustavof442.github.io">
-  <img src="assets/footer.svg" width="100%" alt="Stack: C#, .NET, TypeScript, Next.js, React, Node, SQL, Firebird, PostgreSQL, Supabase, Docker, Git, Azure">
-</a>
