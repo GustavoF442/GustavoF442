@@ -1,87 +1,44 @@
-# Gustavo Henrique Fraga
+<a href="https://gustavof442.github.io">
+  <img src="assets/hero.svg" width="100%" alt="Gustavo Henrique Fraga: terminal digitando e impressora térmica imprimindo uma etiqueta para cada projeto de cliente">
+</a>
 
-**Analista de Suporte de Sistemas | Desenvolvimento de Software**
-
-Sistemas corporativos, aplicações web e desktop, bancos de dados e automação.
-
-[Portfólio](https://gustavof442.github.io) · [LinkedIn](https://www.linkedin.com/in/gv-fraga/) · [E-mail](mailto:gustavohfraga1@gmail.com)
-
----
-
-## Sobre
-
-Trabalho com suporte e análise de sistemas em ambientes reais de produção. Minha rotina envolve investigar falhas, consultar bancos de dados, entender regras de negócio e encontrar soluções que funcionem para quem usa o software todos os dias.
-
-Também desenvolvo aplicações web e desktop. Gosto de projetos que exigem mais do que uma interface: integração entre componentes, controle de acesso, tratamento de dados e atenção ao funcionamento do sistema como um todo.
-
-Sou estudante de **Sistemas de Informação na UNIFEBE**, em Santa Catarina. Tenho direcionado meus estudos para desenvolvimento de software, segurança e tecnologias de nuvem.
-
-## O que faço
-
-| Área | Experiência |
-| --- | --- |
-| **Sistemas corporativos** | Suporte a ERP, diagnóstico de incidentes, regras de negócio e rotinas operacionais |
-| **Bancos de dados** | Consultas SQL, investigação de inconsistências e trabalho com Firebird e PostgreSQL |
-| **Desenvolvimento** | Aplicações web e desktop, APIs, integrações e automação de processos |
-| **Infraestrutura e segurança** | Ambientes Windows, redes, autenticação, permissões, Docker e práticas de DevSecOps |
-
-## Projetos selecionados
-
-### SJ Remote · Aplicação desktop
-
-Solução de suporte remoto para Windows desenvolvida para uso corporativo. Envolve aplicação em **.NET**, comunicação entre cliente e servidor, gerenciamento de sessões e recursos para o atendimento técnico.
-
-*Projeto interno — repositório privado.*
-
-### [Laço's · Painel Administrativo](https://github.com/GustavoF442/LacosWebManagement)
-
-Painel de gestão para um aplicativo de saúde feminina, com autenticação, permissões, gerenciamento de conteúdo e relatórios. Desenvolvido com **Next.js, TypeScript e Supabase**, incluindo políticas de acesso no banco de dados.
-
-### [Conversor de Imagens para Calçados](https://github.com/GustavoF442/ConversorDeImagens)
-
-Aplicação para transformar imagens de produtos em desenhos técnicos e arquivos adequados à impressão térmica. Inclui processamento em lote, ajustes de imagem e exportação em diferentes formatos. Usa **Electron, React e processamento de imagens**.
-
-### [Banco Fácil · DevSecOps](https://github.com/GustavoF442/PP1-SBaron)
-
-Projeto acadêmico de **API Java** com pipeline de segurança e empacotamento em **Docker**, publicado no GitHub Container Registry.
-
-<details>
-<summary>Outros repositórios</summary>
-
-- [ACAPRA](https://github.com/GustavoF442/AcapraDEV) — plataforma para gestão de adoções e apoio à proteção animal.
-- [Clash Manager](https://github.com/GustavoF442/ClashManager) — dashboard integrado à API oficial de Clash of Clans.
-
-</details>
-
-## Tecnologias
-
-**Linguagens:** C#, TypeScript, JavaScript, SQL, Java e Python.
-
-**Aplicações e frameworks:** .NET, Next.js, React, Node.js e Electron.
-
-**Dados e infraestrutura:** Firebird, PostgreSQL, Supabase, Docker, Git, GitHub Actions e Windows.
-
-**Em aprofundamento:** Microsoft Azure, Microsoft Entra ID, segurança de aplicações e DevSecOps.
-
-## Projetos publicados
-
-Além dos repositórios, também desenvolvo soluções web para negócios reais.
-
-- [Liberty Imóveis SC](https://libertyimoveissc.com.br/) — presença digital para o mercado imobiliário.
-- [Nutricionista Enrico Becker](https://nutrienricobecker.com.br/) — site profissional.
-- [Portfólio completo](https://gustavof442.github.io) — outros trabalhos e informações de contato.
-
-<details>
-<summary>Atividade no GitHub</summary>
+<p align="center">
+  <a href="https://gustavof442.github.io"><img src="https://img.shields.io/badge/abrir_portfólio-↗-ff6a2b?style=for-the-badge&labelColor=0b0d0c" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/gv-fraga/"><img src="https://img.shields.io/badge/LinkedIn-gv--fraga-131716?style=for-the-badge&logo=linkedin&logoColor=e8ece9&labelColor=0b0d0c" alt="LinkedIn"></a>
+  <a href="mailto:gustavohfraga1@gmail.com"><img src="https://img.shields.io/badge/e--mail-gustavohfraga1@gmail.com-131716?style=for-the-badge&logo=gmail&logoColor=e8ece9&labelColor=0b0d0c" alt="E-mail"></a>
+</p>
 
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GustavoF442&hide_border=true)
+<p align="center">
+  <a href="https://libertyimoveissc.com.br/"><img src="assets/card-liberty.svg" width="49%" alt="Liberty Imóveis SC: imobiliária, case de sucesso, no ar"></a>
+  <a href="https://gustavof442.github.io/#clientes"><img src="assets/card-enrico.svg" width="49%" alt="Enrico Becker: nutricionista, no ar"></a>
+  <a href="https://gustavof442.github.io/#clientes"><img src="assets/card-atelie.svg" width="49%" alt="Ateliê Solange Vargas: loja de crochê, pronto"></a>
+  <a href="https://gustavof442.github.io/#clientes"><img src="assets/card-jbmaquinas.svg" width="49%" alt="JB Máquinas: catálogo técnico, pronto"></a>
+</p>
+
+<br>
+
+<a href="https://gustavof442.github.io/#roadmap">
+  <img src="assets/roadmap.svg" width="100%" alt="Roadmap de certificações 2026: Microsoft Entra, Active Directory, AZ-900 e SC-900">
+</a>
+
+<br><br>
+
+<details>
+<summary><b>Mais projetos de código</b></summary>
+<br>
+
+| | |
+| --- | --- |
+| **[Laço's · Painel](https://github.com/GustavoF442/LacosWebManagement)** | Painel admin de app de saúde feminina, protegido em 3 camadas: middleware, server e RLS |
+| **[Conversor de Imagens](https://github.com/GustavoF442/ConversorDeImagens)** | Fotos de calçados → desenho técnico 1-bit para impressoras térmicas Argox |
+| **[Banco Fácil · DevSecOps](https://github.com/GustavoF442/PP1-SBaron)** | API Java com pipeline de segurança e imagem Docker no GHCR |
+| **[ACAPRA](https://github.com/GustavoF442/AcapraDEV)** | Sistema de adoção de animais para ONG |
 
 </details>
 
----
-
-**Tenho interesse em construir soluções confiáveis e continuar evoluindo em desenvolvimento, infraestrutura e segurança.**
-
-[Conheça meu portfólio](https://gustavof442.github.io) · [Vamos conversar no LinkedIn](https://www.linkedin.com/in/gv-fraga/)
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=GustavoF442&show_icons=true&bg_color=0b0d0c&title_color=ff6a2b&text_color=a6afaa&icon_color=ff6a2b&ring_color=ff6a2b&border_color=222926&border_radius=14" alt="Estatísticas do GitHub">
+  <img height="150" src="https://streak-stats.demolab.com/?user=GustavoF442&background=0b0d0c&border=222926&stroke=222926&ring=ff6a2b&fire=ff6a2b&currStreakNum=e8ece9&sideNums=e8ece9&currStreakLabel=ff6a2b&sideLabels=a6afaa&dates=6e7873&border_radius=14" alt="Sequência de contribuições">
+</p>
