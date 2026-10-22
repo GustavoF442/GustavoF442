@@ -3,5 +3,12 @@
   <text x="44" y="47" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#8b949e" letter-spacing="-.5">Sistemas e ferramentas</text>
   <text x="1198" y="46" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="12.5" fill="#8b949e" text-anchor="end">código no GitHub</text>
   <path d="M2 64 H1198" stroke="#8b949e" stroke-opacity=".35"/>
-  <path d="M2 64 H62" stroke="#ff6a2b" stroke-width="2.5"/>
+  <style>
+    .run { animation: run 5s cubic-bezier(.6,0,.3,1) infinite alternate; }
+    @keyframes run { from { transform: translateX(0); } to { transform: translateX(1136px); } }
+    .blink { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <path class="run" d="M2 64 H62" stroke="#ff6a2b" stroke-width="2.5" stroke-linecap="round"/>
+  <rect class="blink" x="351" y="27" width="11" height="24" rx="1.5" fill="#ff6a2b"/>
 </svg>

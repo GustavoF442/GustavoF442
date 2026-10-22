@@ -2,28 +2,39 @@
   <style>
     .flow { animation: flow 1.2s linear infinite; }
     @keyframes flow { to { stroke-dashoffset: -24; } }
+    .fill { animation: fill 2.4s cubic-bezier(.3,.7,.2,1) infinite alternate; transform-box: fill-box; transform-origin: left; }
+    @keyframes fill { from { transform: scaleX(.86); } to { transform: scaleX(1); } }
+    .shim { animation: shim 2.6s linear infinite; }
+    @keyframes shim { from { transform: translateX(-80px); } to { transform: translateX(320px); } }
+    .ring { animation: ring 2s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes ring { from { transform: scale(1); opacity: .8; } to { transform: scale(1.5); opacity: 0; } }
+    .pop { animation: pop 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes pop { 0%,80%,100% { transform: scale(1); } 88% { transform: scale(1.1); } }
   </style>
   <rect width="1200" height="300" rx="14" fill="#101312" stroke="#222926"/>
   <text x="34" y="44" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="13" fill="#6e7873">pipeline: <tspan fill="#e8ece9" font-weight="700">certificacoes-2026</tspan></text>
   <text x="1166" y="44" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="13" fill="#6e7873" text-anchor="end">1 de 4 concluída</text>
   <rect x="34" y="60" width="1132" height="3" rx="1.5" fill="#222926"/>
-  <rect x="34" y="60" width="300" height="3" rx="1.5" fill="#ff6a2b"/>
+  <rect class="fill" x="34" y="60" width="300" height="3" rx="1.5" fill="#ff6a2b"/>
+  <clipPath id="bar"><rect x="34" y="58" width="300" height="7"/></clipPath>
+  <g clip-path="url(#bar)"><rect class="shim" x="34" y="58" width="60" height="7" fill="#ffd2bd" opacity=".8"/></g>
   <path d="M118 118 H336" stroke="#ff6a2b" stroke-width="1.5"/>
   <path class="flow" d="M388 118 H876.0" stroke="#2f3834" stroke-width="1.5" stroke-dasharray="6 6"/>
   
     <g transform="translate(92.0,118)">
-      <rect x="-26" y="-26" width="52" height="52" rx="11" fill="#ff6a2b"/>
-      <path d="M-9 0l6 6 12-12" fill="none" stroke="#0b0d0c" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <g class="pop"><rect x="-26" y="-26" width="52" height="52" rx="11" fill="#ff6a2b"/>
+      <path d="M-9 0l6 6 12-12" fill="none" stroke="#0b0d0c" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></g>
     </g>
     <text x="66.0" y="180" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="11" fill="#3ddc97" letter-spacing="1">STAGE 01 · CONCLUÍDO</text>
     <text x="66.0" y="208" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#e8ece9">Microsoft Entra</text>
     <text x="66.0" y="228" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="12" fill="#ff6a2b">Applied Skills</text>
     <text x="66.0" y="252" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#a6afaa">Identidade e acesso</text>
     <g transform="translate(362.0,118)">
+      <rect class="ring" x="-26" y="-26" width="52" height="52" rx="11" fill="none" stroke="#ff6a2b" stroke-width="1.5"/>
       <rect x="-26" y="-26" width="52" height="52" rx="11" fill="#131716" stroke="#2f3834"/>
       <g fill="none" stroke="#ff6a2b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="-11" y="-11" width="22" height="8" rx="1.5"/><rect x="-11" y="5" width="22" height="8" rx="1.5"/><path d="M0 -3v8"/></g>
     </g>
-    <text x="336.0" y="180" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="11" fill="#6e7873" letter-spacing="1">STAGE 02</text>
+    <text x="336.0" y="180" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="11" fill="#ff6a2b" letter-spacing="1">STAGE 02 · PRÓXIMO</text>
     <text x="336.0" y="208" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#e8ece9">Active Directory</text>
     <text x="336.0" y="228" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="12" fill="#ff6a2b">Applied Skills</text>
     <text x="336.0" y="252" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#a6afaa">AD DS, OUs e GPOs</text>
