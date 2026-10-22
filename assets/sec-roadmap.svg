@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-label="Certificações 2026">
+  <text x="2" y="46" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="14" fill="#ff6a2b" letter-spacing="1">03</text>
+  <text x="44" y="47" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#8b949e" letter-spacing="-.5">Certificações 2026</text>
+  <text x="1198" y="46" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="12.5" fill="#8b949e" text-anchor="end">em andamento</text>
+  <path d="M2 64 H1198" stroke="#8b949e" stroke-opacity=".35"/>
+  <path d="M2 64 H62" stroke="#ff6a2b" stroke-width="2.5"/>
+</svg>

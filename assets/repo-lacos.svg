@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="250" viewBox="0 0 600 250" role="img" aria-label="Laço&#x27;s · Painel admin: Painel de um app de saúde feminina, com acesso protegido em três camadas: middleware, servidor e RLS no banco.">
+  <defs><radialGradient id="g" cx="100%" cy="0%" r="70%"><stop offset="0" stop-color="#ff6a2b" stop-opacity=".10"/><stop offset="1" stop-color="#ff6a2b" stop-opacity="0"/></radialGradient></defs>
+  <rect x=".5" y=".5" width="599" height="249" rx="16" fill="#101312" stroke="#222926"/>
+  <rect x=".5" y=".5" width="599" height="249" rx="16" fill="url(#g)"/>
+  <text x="28" y="40" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="12.5" fill="#6e7873">GustavoF442/<tspan fill="#e8ece9" font-weight="700">LacosWebManagement</tspan></text>
+  <circle cx="485" cy="36" r="5" fill="#3178c6"/>
+  <text x="572" y="40" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="12.5" fill="#a6afaa" text-anchor="end">TypeScript</text>
+  <path d="M28 56 H572" stroke="#222926"/>
+  <text x="28" y="94" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#e8ece9" letter-spacing="-.6">Laço&#x27;s · Painel admin</text>
+  <text x="572" y="92" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="11.5" fill="#3ddc97" text-anchor="end">público</text>
+  <text x="28" y="124" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#a6afaa">Painel de um app de saúde feminina, com acesso protegido em</text><text x="28" y="146" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#a6afaa">três camadas: middleware, servidor e RLS no banco.</text>
+  <rect x="28" y="196" width="73" height="26" rx="13" fill="#131716" stroke="#2f3834"/><text x="65" y="213" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="12" fill="#a6afaa" text-anchor="middle">Next.js</text><rect x="109.1" y="196" width="80" height="26" rx="13" fill="#131716" stroke="#2f3834"/><text x="149" y="213" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="12" fill="#a6afaa" text-anchor="middle">Supabase</text><rect x="197.5" y="196" width="44" height="26" rx="13" fill="#131716" stroke="#2f3834"/><text x="219" y="213" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="12" fill="#a6afaa" text-anchor="middle">RLS</text>
+</svg>

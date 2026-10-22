@@ -5,16 +5,17 @@
   </style>
   <rect width="1200" height="300" rx="14" fill="#101312" stroke="#222926"/>
   <text x="34" y="44" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="13" fill="#6e7873">pipeline: <tspan fill="#e8ece9" font-weight="700">certificacoes-2026</tspan></text>
-  <text x="1166" y="44" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="13" fill="#6e7873" text-anchor="end">meta 2026 · 4 etapas</text>
+  <text x="1166" y="44" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="13" fill="#6e7873" text-anchor="end">1 de 4 concluída</text>
   <rect x="34" y="60" width="1132" height="3" rx="1.5" fill="#222926"/>
-  <rect x="34" y="60" width="40" height="3" rx="1.5" fill="#ff6a2b"/>
-  <path class="flow" d="M118 118 H876.0" stroke="#2f3834" stroke-width="1.5" stroke-dasharray="6 6"/>
+  <rect x="34" y="60" width="300" height="3" rx="1.5" fill="#ff6a2b"/>
+  <path d="M118 118 H336" stroke="#ff6a2b" stroke-width="1.5"/>
+  <path class="flow" d="M388 118 H876.0" stroke="#2f3834" stroke-width="1.5" stroke-dasharray="6 6"/>
   
     <g transform="translate(92.0,118)">
-      <rect x="-26" y="-26" width="52" height="52" rx="11" fill="#131716" stroke="#2f3834"/>
-      <g fill="none" stroke="#ff6a2b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="-4" r="5"/><path d="M-10 10c1.2-5.4 5.4-8.2 10-8.2s8.8 2.8 10 8.2"/></g>
+      <rect x="-26" y="-26" width="52" height="52" rx="11" fill="#ff6a2b"/>
+      <path d="M-9 0l6 6 12-12" fill="none" stroke="#0b0d0c" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
     </g>
-    <text x="66.0" y="180" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="11" fill="#6e7873" letter-spacing="1">STAGE 01</text>
+    <text x="66.0" y="180" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="11" fill="#3ddc97" letter-spacing="1">STAGE 01 · CONCLUÍDO</text>
     <text x="66.0" y="208" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#e8ece9">Microsoft Entra</text>
     <text x="66.0" y="228" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="12" fill="#ff6a2b">Applied Skills</text>
     <text x="66.0" y="252" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#a6afaa">Identidade e acesso</text>
