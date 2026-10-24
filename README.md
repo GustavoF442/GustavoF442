@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://libertyimoveissc.com.br/"><img src="assets/card-liberty.svg" width="49%" alt="Liberty Imóveis SC: imobiliária, case de sucesso, no ar"></a>
   <a href="https://nutrienricobecker.com.br/"><img src="assets/card-enrico.svg" width="49%" alt="Enrico Becker: nutricionista, no ar"></a>
-  <a href="https://gustavof442.github.io/#projetos"><img src="assets/card-atelie.svg" width="49%" alt="Ateliê Solange Vargas: loja de crochê"></a>
+  <a href="https://gustavof442.github.io/#projetos"><img src="assets/card-atelie.svg" width="49%" alt="Ateliê Solange Vargas: loja de crochê, no ar"></a>
   <a href="https://gustavof442.github.io/#projetos"><img src="assets/card-jbmaquinas.svg" width="49%" alt="JB Máquinas: catálogo técnico"></a>
 </p>
 
